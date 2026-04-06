@@ -164,6 +164,13 @@ collections:
     output: true
   teachings:
     output: true
+# -----------------------------------------------------------------------------
+# Social integration
+# -----------------------------------------------------------------------------
+
+linkedin_username: hamid-bahreini-907653bb
+google_scholar_id: 8Tz3egMAAAAJ
+github_username: HamidBahreini
 
 # -----------------------------------------------------------------------------
 # Jekyll settings
